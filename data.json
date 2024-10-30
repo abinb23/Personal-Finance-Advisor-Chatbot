@@ -1,0 +1,1037 @@
+[
+    {
+        "Investment Option": "Bonds",
+        "Financial Product": "Student Loan",
+        "Budgeting Strategy": "Priority-based Budgeting",
+        "Retirement Plan": "Self-employed 401(k)",
+        "Risk Level": "Medium",
+        "Interest Rate (%)": 10.44,
+        "Annual Return (%)": 1.82
+    },
+    {
+        "Investment Option": "Real Estate",
+        "Financial Product": "Travel Insurance",
+        "Budgeting Strategy": "Reverse Budgeting",
+        "Retirement Plan": "401(k)",
+        "Risk Level": "High",
+        "Interest Rate (%)": 2.26,
+        "Annual Return (%)": 11.38
+    },
+    {
+        "Investment Option": "Commodities",
+        "Financial Product": "Mortgage",
+        "Budgeting Strategy": "Percentage-based Budgeting",
+        "Retirement Plan": "Self-employed 401(k)",
+        "Risk Level": "Low",
+        "Interest Rate (%)": 11.14,
+        "Annual Return (%)": 8.12
+    },
+    {
+        "Investment Option": "Index Funds",
+        "Financial Product": "Health Insurance",
+        "Budgeting Strategy": "Debt Snowball Method",
+        "Retirement Plan": "Roth IRA",
+        "Risk Level": "Low",
+        "Interest Rate (%)": 4.55,
+        "Annual Return (%)": 11.5
+    },
+    {
+        "Investment Option": "Index Funds",
+        "Financial Product": "Home Insurance",
+        "Budgeting Strategy": "Zero-based Budgeting",
+        "Retirement Plan": "Roth IRA",
+        "Risk Level": "Medium",
+        "Interest Rate (%)": 14.52,
+        "Annual Return (%)": 6.38
+    },
+    {
+        "Investment Option": "Gold",
+        "Financial Product": "Auto Loan",
+        "Budgeting Strategy": "50/30/20 Rule",
+        "Retirement Plan": "SEP IRA",
+        "Risk Level": "High",
+        "Interest Rate (%)": 5.31,
+        "Annual Return (%)": 6.93
+    },
+    {
+        "Investment Option": "Real Estate",
+        "Financial Product": "Life Insurance",
+        "Budgeting Strategy": "Pay Yourself First",
+        "Retirement Plan": "Annuities",
+        "Risk Level": "Medium",
+        "Interest Rate (%)": 5.99,
+        "Annual Return (%)": 5.89
+    },
+    {
+        "Investment Option": "Cryptocurrency",
+        "Financial Product": "Health Insurance",
+        "Budgeting Strategy": "Pay Yourself First",
+        "Retirement Plan": "Annuities",
+        "Risk Level": "Low",
+        "Interest Rate (%)": 13.86,
+        "Annual Return (%)": 9.49
+    },
+    {
+        "Investment Option": "Gold",
+        "Financial Product": "Credit Card",
+        "Budgeting Strategy": "50/30/20 Rule",
+        "Retirement Plan": "Pension Plan",
+        "Risk Level": "High",
+        "Interest Rate (%)": 11.15,
+        "Annual Return (%)": 11
+    },
+    {
+        "Investment Option": "Bonds",
+        "Financial Product": "Travel Insurance",
+        "Budgeting Strategy": "Cash-only Budgeting",
+        "Retirement Plan": "Roth IRA",
+        "Risk Level": "Medium",
+        "Interest Rate (%)": 12.41,
+        "Annual Return (%)": 4.3
+    },
+    {
+        "Investment Option": "Commodities",
+        "Financial Product": "Student Loan",
+        "Budgeting Strategy": "Zero-based Budgeting",
+        "Retirement Plan": "Self-employed 401(k)",
+        "Risk Level": "Medium",
+        "Interest Rate (%)": 13.36,
+        "Annual Return (%)": 10.36
+    },
+    {
+        "Investment Option": "Index Funds",
+        "Financial Product": "Personal Loan",
+        "Budgeting Strategy": "Line-item Budgeting",
+        "Retirement Plan": "Traditional IRA",
+        "Risk Level": "Medium",
+        "Interest Rate (%)": 6.56,
+        "Annual Return (%)": 7.07
+    },
+    {
+        "Investment Option": "Savings Account",
+        "Financial Product": "Health Insurance",
+        "Budgeting Strategy": "Pay Yourself First",
+        "Retirement Plan": "SEP IRA",
+        "Risk Level": "Low",
+        "Interest Rate (%)": 1.49,
+        "Annual Return (%)": 8.96
+    },
+    {
+        "Investment Option": "Savings Account",
+        "Financial Product": "Life Insurance",
+        "Budgeting Strategy": "Percentage-based Budgeting",
+        "Retirement Plan": "SEP IRA",
+        "Risk Level": "Medium",
+        "Interest Rate (%)": 8.94,
+        "Annual Return (%)": 5.03
+    },
+    {
+        "Investment Option": "ETFs",
+        "Financial Product": "Business Loan",
+        "Budgeting Strategy": "Percentage-based Budgeting",
+        "Retirement Plan": "SEP IRA",
+        "Risk Level": "Medium",
+        "Interest Rate (%)": 2.57,
+        "Annual Return (%)": 10.85
+    },
+    {
+        "Investment Option": "Mutual Funds",
+        "Financial Product": "Life Insurance",
+        "Budgeting Strategy": "Priority-based Budgeting",
+        "Retirement Plan": "SEP IRA",
+        "Risk Level": "Low",
+        "Interest Rate (%)": 11.69,
+        "Annual Return (%)": 7.45
+    },
+    {
+        "Investment Option": "Mutual Funds",
+        "Financial Product": "Mortgage",
+        "Budgeting Strategy": "50/30/20 Rule",
+        "Retirement Plan": "401(k)",
+        "Risk Level": "Low",
+        "Interest Rate (%)": 8.21,
+        "Annual Return (%)": 8.89
+    },
+    {
+        "Investment Option": "Index Funds",
+        "Financial Product": "Personal Loan",
+        "Budgeting Strategy": "Reverse Budgeting",
+        "Retirement Plan": "Pension Plan",
+        "Risk Level": "High",
+        "Interest Rate (%)": 12.02,
+        "Annual Return (%)": 11.68
+    },
+    {
+        "Investment Option": "Savings Account",
+        "Financial Product": "Credit Card",
+        "Budgeting Strategy": "Debt Snowball Method",
+        "Retirement Plan": "401(k)",
+        "Risk Level": "High",
+        "Interest Rate (%)": 1.53,
+        "Annual Return (%)": 3.22
+    },
+    {
+        "Investment Option": "Mutual Funds",
+        "Financial Product": "Personal Loan",
+        "Budgeting Strategy": "Pay Yourself First",
+        "Retirement Plan": "Roth IRA",
+        "Risk Level": "Medium",
+        "Interest Rate (%)": 8.71,
+        "Annual Return (%)": 6.51
+    },
+    {
+        "Investment Option": "Stocks",
+        "Financial Product": "Health Insurance",
+        "Budgeting Strategy": "Pay Yourself First",
+        "Retirement Plan": "Pension Plan",
+        "Risk Level": "Low",
+        "Interest Rate (%)": 6.81,
+        "Annual Return (%)": 11.26
+    },
+    {
+        "Investment Option": "Gold",
+        "Financial Product": "Auto Loan",
+        "Budgeting Strategy": "Cash-only Budgeting",
+        "Retirement Plan": "Simple IRA",
+        "Risk Level": "High",
+        "Interest Rate (%)": 1.5,
+        "Annual Return (%)": 2.81
+    },
+    {
+        "Investment Option": "Savings Account",
+        "Financial Product": "Business Loan",
+        "Budgeting Strategy": "Line-item Budgeting",
+        "Retirement Plan": "SEP IRA",
+        "Risk Level": "High",
+        "Interest Rate (%)": 13.91,
+        "Annual Return (%)": 11.81
+    },
+    {
+        "Investment Option": "Commodities",
+        "Financial Product": "Life Insurance",
+        "Budgeting Strategy": "Envelope System",
+        "Retirement Plan": "Roth IRA",
+        "Risk Level": "Low",
+        "Interest Rate (%)": 6.37,
+        "Annual Return (%)": 2.92
+    },
+    {
+        "Investment Option": "Gold",
+        "Financial Product": "Life Insurance",
+        "Budgeting Strategy": "Cash-only Budgeting",
+        "Retirement Plan": "Target-date Funds",
+        "Risk Level": "Low",
+        "Interest Rate (%)": 13.8,
+        "Annual Return (%)": 6.78
+    },
+    {
+        "Investment Option": "Savings Account",
+        "Financial Product": "Life Insurance",
+        "Budgeting Strategy": "Zero-based Budgeting",
+        "Retirement Plan": "Target-date Funds",
+        "Risk Level": "Medium",
+        "Interest Rate (%)": 6.67,
+        "Annual Return (%)": 4.47
+    },
+    {
+        "Investment Option": "Mutual Funds",
+        "Financial Product": "Auto Loan",
+        "Budgeting Strategy": "Reverse Budgeting",
+        "Retirement Plan": "Self-employed 401(k)",
+        "Risk Level": "High",
+        "Interest Rate (%)": 2.86,
+        "Annual Return (%)": 5.25
+    },
+    {
+        "Investment Option": "Real Estate",
+        "Financial Product": "Travel Insurance",
+        "Budgeting Strategy": "Priority-based Budgeting",
+        "Retirement Plan": "Target-date Funds",
+        "Risk Level": "Low",
+        "Interest Rate (%)": 4.15,
+        "Annual Return (%)": 1.95
+    },
+    {
+        "Investment Option": "Index Funds",
+        "Financial Product": "Health Insurance",
+        "Budgeting Strategy": "Percentage-based Budgeting",
+        "Retirement Plan": "HSA",
+        "Risk Level": "Medium",
+        "Interest Rate (%)": 7.9,
+        "Annual Return (%)": 6.61
+    },
+    {
+        "Investment Option": "Real Estate",
+        "Financial Product": "Home Insurance",
+        "Budgeting Strategy": "Pay Yourself First",
+        "Retirement Plan": "Pension Plan",
+        "Risk Level": "Medium",
+        "Interest Rate (%)": 3.37,
+        "Annual Return (%)": 8.07
+    },
+    {
+        "Investment Option": "Gold",
+        "Financial Product": "Mortgage",
+        "Budgeting Strategy": "Zero-based Budgeting",
+        "Retirement Plan": "401(k)",
+        "Risk Level": "Medium",
+        "Interest Rate (%)": 14.99,
+        "Annual Return (%)": 3.29
+    },
+    {
+        "Investment Option": "Gold",
+        "Financial Product": "Health Insurance",
+        "Budgeting Strategy": "Line-item Budgeting",
+        "Retirement Plan": "Target-date Funds",
+        "Risk Level": "High",
+        "Interest Rate (%)": 6.23,
+        "Annual Return (%)": 9.1
+    },
+    {
+        "Investment Option": "Stocks",
+        "Financial Product": "Credit Card",
+        "Budgeting Strategy": "Cash-only Budgeting",
+        "Retirement Plan": "Self-employed 401(k)",
+        "Risk Level": "Medium",
+        "Interest Rate (%)": 11.39,
+        "Annual Return (%)": 10.24
+    },
+    {
+        "Investment Option": "ETFs",
+        "Financial Product": "Mortgage",
+        "Budgeting Strategy": "Percentage-based Budgeting",
+        "Retirement Plan": "Annuities",
+        "Risk Level": "Medium",
+        "Interest Rate (%)": 14.39,
+        "Annual Return (%)": 5.41
+    },
+    {
+        "Investment Option": "Index Funds",
+        "Financial Product": "Credit Card",
+        "Budgeting Strategy": "Debt Snowball Method",
+        "Retirement Plan": "Self-employed 401(k)",
+        "Risk Level": "High",
+        "Interest Rate (%)": 3.75,
+        "Annual Return (%)": 2.33
+    },
+    {
+        "Investment Option": "ETFs",
+        "Financial Product": "Auto Loan",
+        "Budgeting Strategy": "50/30/20 Rule",
+        "Retirement Plan": "Traditional IRA",
+        "Risk Level": "Low",
+        "Interest Rate (%)": 10.45,
+        "Annual Return (%)": 2.19
+    },
+    {
+        "Investment Option": "Bonds",
+        "Financial Product": "Auto Loan",
+        "Budgeting Strategy": "Pay Yourself First",
+        "Retirement Plan": "Annuities",
+        "Risk Level": "Low",
+        "Interest Rate (%)": 4.1,
+        "Annual Return (%)": 1.64
+    },
+    {
+        "Investment Option": "Mutual Funds",
+        "Financial Product": "Personal Loan",
+        "Budgeting Strategy": "Pay Yourself First",
+        "Retirement Plan": "Pension Plan",
+        "Risk Level": "Low",
+        "Interest Rate (%)": 6.79,
+        "Annual Return (%)": 3.39
+    },
+    {
+        "Investment Option": "Mutual Funds",
+        "Financial Product": "Student Loan",
+        "Budgeting Strategy": "Pay Yourself First",
+        "Retirement Plan": "SEP IRA",
+        "Risk Level": "High",
+        "Interest Rate (%)": 4.87,
+        "Annual Return (%)": 7.33
+    },
+    {
+        "Investment Option": "Commodities",
+        "Financial Product": "Health Insurance",
+        "Budgeting Strategy": "Priority-based Budgeting",
+        "Retirement Plan": "HSA",
+        "Risk Level": "High",
+        "Interest Rate (%)": 4.79,
+        "Annual Return (%)": 3.37
+    },
+    {
+        "Investment Option": "Commodities",
+        "Financial Product": "Travel Insurance",
+        "Budgeting Strategy": "Zero-based Budgeting",
+        "Retirement Plan": "Pension Plan",
+        "Risk Level": "Low",
+        "Interest Rate (%)": 4.09,
+        "Annual Return (%)": 11.22
+    },
+    {
+        "Investment Option": "Bonds",
+        "Financial Product": "Travel Insurance",
+        "Budgeting Strategy": "Percentage-based Budgeting",
+        "Retirement Plan": "Target-date Funds",
+        "Risk Level": "High",
+        "Interest Rate (%)": 4.74,
+        "Annual Return (%)": 2.98
+    },
+    {
+        "Investment Option": "Mutual Funds",
+        "Financial Product": "Personal Loan",
+        "Budgeting Strategy": "Reverse Budgeting",
+        "Retirement Plan": "Traditional IRA",
+        "Risk Level": "Low",
+        "Interest Rate (%)": 1.22,
+        "Annual Return (%)": 5.88
+    },
+    {
+        "Investment Option": "Cryptocurrency",
+        "Financial Product": "Business Loan",
+        "Budgeting Strategy": "Cash-only Budgeting",
+        "Retirement Plan": "Roth IRA",
+        "Risk Level": "Low",
+        "Interest Rate (%)": 10.41,
+        "Annual Return (%)": 8.9
+    },
+    {
+        "Investment Option": "Commodities",
+        "Financial Product": "Health Insurance",
+        "Budgeting Strategy": "Pay Yourself First",
+        "Retirement Plan": "HSA",
+        "Risk Level": "High",
+        "Interest Rate (%)": 4.9,
+        "Annual Return (%)": 6.59
+    },
+    {
+        "Investment Option": "Gold",
+        "Financial Product": "Personal Loan",
+        "Budgeting Strategy": "Priority-based Budgeting",
+        "Retirement Plan": "Traditional IRA",
+        "Risk Level": "Medium",
+        "Interest Rate (%)": 5.62,
+        "Annual Return (%)": 8.68
+    },
+    {
+        "Investment Option": "Commodities",
+        "Financial Product": "Travel Insurance",
+        "Budgeting Strategy": "Pay Yourself First",
+        "Retirement Plan": "SEP IRA",
+        "Risk Level": "Low",
+        "Interest Rate (%)": 4.59,
+        "Annual Return (%)": 3.45
+    },
+    {
+        "Investment Option": "Stocks",
+        "Financial Product": "Personal Loan",
+        "Budgeting Strategy": "Priority-based Budgeting",
+        "Retirement Plan": "401(k)",
+        "Risk Level": "Medium",
+        "Interest Rate (%)": 1.2,
+        "Annual Return (%)": 4.41
+    },
+    {
+        "Investment Option": "Savings Account",
+        "Financial Product": "Auto Loan",
+        "Budgeting Strategy": "Reverse Budgeting",
+        "Retirement Plan": "401(k)",
+        "Risk Level": "Low",
+        "Interest Rate (%)": 11.71,
+        "Annual Return (%)": 5.38
+    },
+    {
+        "Investment Option": "Stocks",
+        "Financial Product": "Mortgage",
+        "Budgeting Strategy": "Debt Snowball Method",
+        "Retirement Plan": "Pension Plan",
+        "Risk Level": "High",
+        "Interest Rate (%)": 9.76,
+        "Annual Return (%)": 6.72
+    },
+    {
+        "Investment Option": "Gold",
+        "Financial Product": "Life Insurance",
+        "Budgeting Strategy": "Debt Snowball Method",
+        "Retirement Plan": "Roth IRA",
+        "Risk Level": "Medium",
+        "Interest Rate (%)": 14.15,
+        "Annual Return (%)": 1.85
+    },
+    {
+        "Investment Option": "Stocks",
+        "Financial Product": "Home Insurance",
+        "Budgeting Strategy": "50/30/20 Rule",
+        "Retirement Plan": "SEP IRA",
+        "Risk Level": "Low",
+        "Interest Rate (%)": 4.51,
+        "Annual Return (%)": 7.49
+    },
+    {
+        "Investment Option": "Bonds",
+        "Financial Product": "Personal Loan",
+        "Budgeting Strategy": "Line-item Budgeting",
+        "Retirement Plan": "Traditional IRA",
+        "Risk Level": "Medium",
+        "Interest Rate (%)": 12.52,
+        "Annual Return (%)": 10.83
+    },
+    {
+        "Investment Option": "Commodities",
+        "Financial Product": "Health Insurance",
+        "Budgeting Strategy": "Priority-based Budgeting",
+        "Retirement Plan": "Roth IRA",
+        "Risk Level": "Medium",
+        "Interest Rate (%)": 5.51,
+        "Annual Return (%)": 4.61
+    },
+    {
+        "Investment Option": "Gold",
+        "Financial Product": "Business Loan",
+        "Budgeting Strategy": "Envelope System",
+        "Retirement Plan": "Target-date Funds",
+        "Risk Level": "High",
+        "Interest Rate (%)": 12.81,
+        "Annual Return (%)": 4.91
+    },
+    {
+        "Investment Option": "Bonds",
+        "Financial Product": "Auto Loan",
+        "Budgeting Strategy": "50/30/20 Rule",
+        "Retirement Plan": "Annuities",
+        "Risk Level": "High",
+        "Interest Rate (%)": 13.79,
+        "Annual Return (%)": 7.89
+    },
+    {
+        "Investment Option": "Real Estate",
+        "Financial Product": "Mortgage",
+        "Budgeting Strategy": "Envelope System",
+        "Retirement Plan": "Pension Plan",
+        "Risk Level": "High",
+        "Interest Rate (%)": 8.94,
+        "Annual Return (%)": 9.41
+    },
+    {
+        "Investment Option": "Cryptocurrency",
+        "Financial Product": "Personal Loan",
+        "Budgeting Strategy": "Reverse Budgeting",
+        "Retirement Plan": "Target-date Funds",
+        "Risk Level": "Low",
+        "Interest Rate (%)": 2.1,
+        "Annual Return (%)": 7.77
+    },
+    {
+        "Investment Option": "Bonds",
+        "Financial Product": "Student Loan",
+        "Budgeting Strategy": "Cash-only Budgeting",
+        "Retirement Plan": "Target-date Funds",
+        "Risk Level": "Low",
+        "Interest Rate (%)": 8.64,
+        "Annual Return (%)": 6.14
+    },
+    {
+        "Investment Option": "Index Funds",
+        "Financial Product": "Mortgage",
+        "Budgeting Strategy": "Pay Yourself First",
+        "Retirement Plan": "401(k)",
+        "Risk Level": "Low",
+        "Interest Rate (%)": 2.66,
+        "Annual Return (%)": 11.01
+    },
+    {
+        "Investment Option": "Mutual Funds",
+        "Financial Product": "Travel Insurance",
+        "Budgeting Strategy": "50/30/20 Rule",
+        "Retirement Plan": "401(k)",
+        "Risk Level": "Low",
+        "Interest Rate (%)": 10.66,
+        "Annual Return (%)": 5.68
+    },
+    {
+        "Investment Option": "Index Funds",
+        "Financial Product": "Home Insurance",
+        "Budgeting Strategy": "Zero-based Budgeting",
+        "Retirement Plan": "SEP IRA",
+        "Risk Level": "Low",
+        "Interest Rate (%)": 12.68,
+        "Annual Return (%)": 8.36
+    },
+    {
+        "Investment Option": "Stocks",
+        "Financial Product": "Home Insurance",
+        "Budgeting Strategy": "Reverse Budgeting",
+        "Retirement Plan": "Traditional IRA",
+        "Risk Level": "Medium",
+        "Interest Rate (%)": 9.07,
+        "Annual Return (%)": 3.98
+    },
+    {
+        "Investment Option": "Commodities",
+        "Financial Product": "Health Insurance",
+        "Budgeting Strategy": "Percentage-based Budgeting",
+        "Retirement Plan": "Simple IRA",
+        "Risk Level": "Low",
+        "Interest Rate (%)": 6.51,
+        "Annual Return (%)": 7.9
+    },
+    {
+        "Investment Option": "Real Estate",
+        "Financial Product": "Mortgage",
+        "Budgeting Strategy": "Envelope System",
+        "Retirement Plan": "Simple IRA",
+        "Risk Level": "Medium",
+        "Interest Rate (%)": 13.09,
+        "Annual Return (%)": 7.97
+    },
+    {
+        "Investment Option": "Bonds",
+        "Financial Product": "Business Loan",
+        "Budgeting Strategy": "Priority-based Budgeting",
+        "Retirement Plan": "Simple IRA",
+        "Risk Level": "Medium",
+        "Interest Rate (%)": 9.35,
+        "Annual Return (%)": 1.73
+    },
+    {
+        "Investment Option": "Commodities",
+        "Financial Product": "Personal Loan",
+        "Budgeting Strategy": "Reverse Budgeting",
+        "Retirement Plan": "Traditional IRA",
+        "Risk Level": "High",
+        "Interest Rate (%)": 11.6,
+        "Annual Return (%)": 10.52
+    },
+    {
+        "Investment Option": "Gold",
+        "Financial Product": "Mortgage",
+        "Budgeting Strategy": "Zero-based Budgeting",
+        "Retirement Plan": "Target-date Funds",
+        "Risk Level": "Low",
+        "Interest Rate (%)": 6.37,
+        "Annual Return (%)": 3.03
+    },
+    {
+        "Investment Option": "Real Estate",
+        "Financial Product": "Health Insurance",
+        "Budgeting Strategy": "Line-item Budgeting",
+        "Retirement Plan": "Traditional IRA",
+        "Risk Level": "Low",
+        "Interest Rate (%)": 8.38,
+        "Annual Return (%)": 8.31
+    },
+    {
+        "Investment Option": "ETFs",
+        "Financial Product": "Life Insurance",
+        "Budgeting Strategy": "Envelope System",
+        "Retirement Plan": "HSA",
+        "Risk Level": "Medium",
+        "Interest Rate (%)": 11.26,
+        "Annual Return (%)": 11.78
+    },
+    {
+        "Investment Option": "Cryptocurrency",
+        "Financial Product": "Student Loan",
+        "Budgeting Strategy": "Cash-only Budgeting",
+        "Retirement Plan": "Self-employed 401(k)",
+        "Risk Level": "High",
+        "Interest Rate (%)": 2.42,
+        "Annual Return (%)": 6.27
+    },
+    {
+        "Investment Option": "Stocks",
+        "Financial Product": "Auto Loan",
+        "Budgeting Strategy": "Cash-only Budgeting",
+        "Retirement Plan": "401(k)",
+        "Risk Level": "Low",
+        "Interest Rate (%)": 14.33,
+        "Annual Return (%)": 1.49
+    },
+    {
+        "Investment Option": "ETFs",
+        "Financial Product": "Credit Card",
+        "Budgeting Strategy": "Line-item Budgeting",
+        "Retirement Plan": "Self-employed 401(k)",
+        "Risk Level": "High",
+        "Interest Rate (%)": 4.76,
+        "Annual Return (%)": 3.06
+    },
+    {
+        "Investment Option": "Real Estate",
+        "Financial Product": "Personal Loan",
+        "Budgeting Strategy": "Priority-based Budgeting",
+        "Retirement Plan": "Self-employed 401(k)",
+        "Risk Level": "Medium",
+        "Interest Rate (%)": 5.7,
+        "Annual Return (%)": 7.67
+    },
+    {
+        "Investment Option": "ETFs",
+        "Financial Product": "Mortgage",
+        "Budgeting Strategy": "Zero-based Budgeting",
+        "Retirement Plan": "Roth IRA",
+        "Risk Level": "Low",
+        "Interest Rate (%)": 10.89,
+        "Annual Return (%)": 6.9
+    },
+    {
+        "Investment Option": "Commodities",
+        "Financial Product": "Home Insurance",
+        "Budgeting Strategy": "Reverse Budgeting",
+        "Retirement Plan": "Annuities",
+        "Risk Level": "High",
+        "Interest Rate (%)": 8.6,
+        "Annual Return (%)": 6.19
+    },
+    {
+        "Investment Option": "Cryptocurrency",
+        "Financial Product": "Life Insurance",
+        "Budgeting Strategy": "50/30/20 Rule",
+        "Retirement Plan": "Annuities",
+        "Risk Level": "Low",
+        "Interest Rate (%)": 4.15,
+        "Annual Return (%)": 2.66
+    },
+    {
+        "Investment Option": "Commodities",
+        "Financial Product": "Health Insurance",
+        "Budgeting Strategy": "Priority-based Budgeting",
+        "Retirement Plan": "Pension Plan",
+        "Risk Level": "Medium",
+        "Interest Rate (%)": 8.53,
+        "Annual Return (%)": 7.23
+    },
+    {
+        "Investment Option": "Commodities",
+        "Financial Product": "Health Insurance",
+        "Budgeting Strategy": "Line-item Budgeting",
+        "Retirement Plan": "SEP IRA",
+        "Risk Level": "Low",
+        "Interest Rate (%)": 13.36,
+        "Annual Return (%)": 2.38
+    },
+    {
+        "Investment Option": "Bonds",
+        "Financial Product": "Personal Loan",
+        "Budgeting Strategy": "Zero-based Budgeting",
+        "Retirement Plan": "Annuities",
+        "Risk Level": "Medium",
+        "Interest Rate (%)": 7.44,
+        "Annual Return (%)": 1.35
+    },
+    {
+        "Investment Option": "Real Estate",
+        "Financial Product": "Business Loan",
+        "Budgeting Strategy": "Percentage-based Budgeting",
+        "Retirement Plan": "Target-date Funds",
+        "Risk Level": "Medium",
+        "Interest Rate (%)": 11.28,
+        "Annual Return (%)": 3.75
+    },
+    {
+        "Investment Option": "Stocks",
+        "Financial Product": "Student Loan",
+        "Budgeting Strategy": "Envelope System",
+        "Retirement Plan": "Annuities",
+        "Risk Level": "Low",
+        "Interest Rate (%)": 12.8,
+        "Annual Return (%)": 3.18
+    },
+    {
+        "Investment Option": "Real Estate",
+        "Financial Product": "Auto Loan",
+        "Budgeting Strategy": "Reverse Budgeting",
+        "Retirement Plan": "Roth IRA",
+        "Risk Level": "High",
+        "Interest Rate (%)": 12.51,
+        "Annual Return (%)": 5.54
+    },
+    {
+        "Investment Option": "ETFs",
+        "Financial Product": "Student Loan",
+        "Budgeting Strategy": "Zero-based Budgeting",
+        "Retirement Plan": "Roth IRA",
+        "Risk Level": "Low",
+        "Interest Rate (%)": 5.05,
+        "Annual Return (%)": 4.05
+    },
+    {
+        "Investment Option": "Commodities",
+        "Financial Product": "Credit Card",
+        "Budgeting Strategy": "Debt Snowball Method",
+        "Retirement Plan": "401(k)",
+        "Risk Level": "High",
+        "Interest Rate (%)": 11.6,
+        "Annual Return (%)": 10.52
+    },
+    {
+        "Investment Option": "Bonds",
+        "Financial Product": "Health Insurance",
+        "Budgeting Strategy": "Zero-based Budgeting",
+        "Retirement Plan": "Roth IRA",
+        "Risk Level": "High",
+        "Interest Rate (%)": 8.5,
+        "Annual Return (%)": 7.77
+    },
+    {
+        "Investment Option": "Real Estate",
+        "Financial Product": "Auto Loan",
+        "Budgeting Strategy": "50/30/20 Rule",
+        "Retirement Plan": "Self-employed 401(k)",
+        "Risk Level": "Medium",
+        "Interest Rate (%)": 2.67,
+        "Annual Return (%)": 4.73
+    },
+    {
+        "Investment Option": "Cryptocurrency",
+        "Financial Product": "Home Insurance",
+        "Budgeting Strategy": "Envelope System",
+        "Retirement Plan": "401(k)",
+        "Risk Level": "High",
+        "Interest Rate (%)": 10.75,
+        "Annual Return (%)": 7.44
+    },
+    {
+        "Investment Option": "Stocks",
+        "Financial Product": "Credit Card",
+        "Budgeting Strategy": "Zero-based Budgeting",
+        "Retirement Plan": "Pension Plan",
+        "Risk Level": "Medium",
+        "Interest Rate (%)": 10.76,
+        "Annual Return (%)": 3.98
+    },
+    {
+        "Investment Option": "Cryptocurrency",
+        "Financial Product": "Personal Loan",
+        "Budgeting Strategy": "Debt Snowball Method",
+        "Retirement Plan": "SEP IRA",
+        "Risk Level": "High",
+        "Interest Rate (%)": 2.56,
+        "Annual Return (%)": 4.43
+    },
+    {
+        "Investment Option": "Commodities",
+        "Financial Product": "Travel Insurance",
+        "Budgeting Strategy": "Cash-only Budgeting",
+        "Retirement Plan": "401(k)",
+        "Risk Level": "Medium",
+        "Interest Rate (%)": 9.54,
+        "Annual Return (%)": 5.56
+    },
+    {
+        "Investment Option": "Stocks",
+        "Financial Product": "Business Loan",
+        "Budgeting Strategy": "Pay Yourself First",
+        "Retirement Plan": "Target-date Funds",
+        "Risk Level": "Low",
+        "Interest Rate (%)": 10.02,
+        "Annual Return (%)": 1.99
+    },
+    {
+        "Investment Option": "Stocks",
+        "Financial Product": "Health Insurance",
+        "Budgeting Strategy": "Reverse Budgeting",
+        "Retirement Plan": "Traditional IRA",
+        "Risk Level": "Medium",
+        "Interest Rate (%)": 3.65,
+        "Annual Return (%)": 6.24
+    },
+    {
+        "Investment Option": "Commodities",
+        "Financial Product": "Credit Card",
+        "Budgeting Strategy": "Zero-based Budgeting",
+        "Retirement Plan": "Traditional IRA",
+        "Risk Level": "Low",
+        "Interest Rate (%)": 5.67,
+        "Annual Return (%)": 8.77
+    },
+    {
+        "Investment Option": "Gold",
+        "Financial Product": "Business Loan",
+        "Budgeting Strategy": "Debt Snowball Method",
+        "Retirement Plan": "Simple IRA",
+        "Risk Level": "Medium",
+        "Interest Rate (%)": 11.04,
+        "Annual Return (%)": 7.63
+    },
+    {
+        "Investment Option": "Bonds",
+        "Financial Product": "Credit Card",
+        "Budgeting Strategy": "Zero-based Budgeting",
+        "Retirement Plan": "Roth IRA",
+        "Risk Level": "Medium",
+        "Interest Rate (%)": 10.84,
+        "Annual Return (%)": 4.95
+    },
+    {
+        "Investment Option": "Cryptocurrency",
+        "Financial Product": "Auto Loan",
+        "Budgeting Strategy": "Zero-based Budgeting",
+        "Retirement Plan": "Self-employed 401(k)",
+        "Risk Level": "Medium",
+        "Interest Rate (%)": 8.78,
+        "Annual Return (%)": 5.87
+    },
+    {
+        "Investment Option": "Commodities",
+        "Financial Product": "Personal Loan",
+        "Budgeting Strategy": "50/30/20 Rule",
+        "Retirement Plan": "401(k)",
+        "Risk Level": "Medium",
+        "Interest Rate (%)": 3.95,
+        "Annual Return (%)": 9.67
+    },
+    {
+        "Investment Option": "Stocks",
+        "Financial Product": "Business Loan",
+        "Budgeting Strategy": "Pay Yourself First",
+        "Retirement Plan": "HSA",
+        "Risk Level": "Low",
+        "Interest Rate (%)": 9.9,
+        "Annual Return (%)": 3.81
+    },
+    {
+        "Investment Option": "Bonds",
+        "Financial Product": "Health Insurance",
+        "Budgeting Strategy": "Cash-only Budgeting",
+        "Retirement Plan": "401(k)",
+        "Risk Level": "Medium",
+        "Interest Rate (%)": 1.34,
+        "Annual Return (%)": 7.4
+    },
+    {
+        "Investment Option": "Gold",
+        "Financial Product": "Health Insurance",
+        "Budgeting Strategy": "50/30/20 Rule",
+        "Retirement Plan": "Traditional IRA",
+        "Risk Level": "High",
+        "Interest Rate (%)": 10.16,
+        "Annual Return (%)": 5.49
+    },
+    {
+        "Investment Option": "Bonds",
+        "Financial Product": "Travel Insurance",
+        "Budgeting Strategy": "Reverse Budgeting",
+        "Retirement Plan": "Roth IRA",
+        "Risk Level": "Low",
+        "Interest Rate (%)": 8.59,
+        "Annual Return (%)": 4.65
+    },
+    {
+        "Investment Option": "Commodities",
+        "Financial Product": "Life Insurance",
+        "Budgeting Strategy": "Zero-based Budgeting",
+        "Retirement Plan": "Pension Plan",
+        "Risk Level": "High",
+        "Interest Rate (%)": 4.53,
+        "Annual Return (%)": 5.51
+    },
+    {
+        "Investment Option": "Bonds",
+        "Financial Product": "Health Insurance",
+        "Budgeting Strategy": "Cash-only Budgeting",
+        "Retirement Plan": "401(k)",
+        "Risk Level": "Medium",
+        "Interest Rate (%)": 10.66,
+        "Annual Return (%)": 4.5
+    },
+    {
+        "Investment Option": "Gold",
+        "Financial Product": "Health Insurance",
+        "Budgeting Strategy": "Debt Snowball Method",
+        "Retirement Plan": "Traditional IRA",
+        "Risk Level": "Medium",
+        "Interest Rate (%)": 5.24,
+        "Annual Return (%)": 3.2
+    },
+    {
+        "Investment Option": "Cryptocurrency",
+        "Financial Product": "Business Loan",
+        "Budgeting Strategy": "Cash-only Budgeting",
+        "Retirement Plan": "401(k)",
+        "Risk Level": "Low",
+        "Interest Rate (%)": 6.34,
+        "Annual Return (%)": 8.04
+    },
+    {
+        "Investment Option": "Bonds",
+        "Financial Product": "Life Insurance",
+        "Budgeting Strategy": "Pay Yourself First",
+        "Retirement Plan": "401(k)",
+        "Risk Level": "Medium",
+        "Interest Rate (%)": 1.78,
+        "Annual Return (%)": 1.53
+    },
+    {
+        "Investment Option": "Commodities",
+        "Financial Product": "Life Insurance",
+        "Budgeting Strategy": "Zero-based Budgeting",
+        "Retirement Plan": "401(k)",
+        "Risk Level": "High",
+        "Interest Rate (%)": 4.8,
+        "Annual Return (%)": 6.33
+    },
+    {
+        "Investment Option": "Cryptocurrency",
+        "Financial Product": "Business Loan",
+        "Budgeting Strategy": "Zero-based Budgeting",
+        "Retirement Plan": "Simple IRA",
+        "Risk Level": "Medium",
+        "Interest Rate (%)": 9.76,
+        "Annual Return (%)": 7.84
+    },
+    {
+        "Investment Option": "Bonds",
+        "Financial Product": "Home Insurance",
+        "Budgeting Strategy": "Reverse Budgeting",
+        "Retirement Plan": "Roth IRA",
+        "Risk Level": "Medium",
+        "Interest Rate (%)": 9.95,
+        "Annual Return (%)": 4.81
+    },
+    {
+        "Investment Option": "Stocks",
+        "Financial Product": "Mortgage",
+        "Budgeting Strategy": "50/30/20 Rule",
+        "Retirement Plan": "Self-employed 401(k)",
+        "Risk Level": "Low",
+        "Interest Rate (%)": 6.55,
+        "Annual Return (%)": 1.92
+    },
+    {
+        "Investment Option": "Stocks",
+        "Financial Product": "Life Insurance",
+        "Budgeting Strategy": "Zero-based Budgeting",
+        "Retirement Plan": "HSA",
+        "Risk Level": "Medium",
+        "Interest Rate (%)": 3.87,
+        "Annual Return (%)": 8.83
+    },
+    {
+        "Investment Option": "Gold",
+        "Financial Product": "Credit Card",
+        "Budgeting Strategy": "Debt Snowball Method",
+        "Retirement Plan": "401(k)",
+        "Risk Level": "Low",
+        "Interest Rate (%)": 9.89,
+        "Annual Return (%)": 2.73
+    },
+    {
+        "Investment Option": "Commodities",
+        "Financial Product": "Travel Insurance",
+        "Budgeting Strategy": "Zero-based Budgeting",
+        "Retirement Plan": "401(k)",
+        "Risk Level": "Medium",
+        "Interest Rate (%)": 1.84,
+        "Annual Return (%)": 8.82
+    },
+    {
+        "Investment Option": "Stocks",
+        "Financial Product": "Travel Insurance",
+        "Budgeting Strategy": "50/30/20 Rule",
+        "Retirement Plan": "401(k)",
+        "Risk Level": "Medium",
+        "Interest Rate (%)": 5.02,
+        "Annual Return (%)": 5.62
+    }
+]
