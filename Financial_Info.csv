@@ -1,0 +1,101 @@
+Investment_Option,Financial_Product,Budgeting_Strategy,Retirement_Plan,Risk_Level,Interest_Rate,Annual_Return
+Bonds,Student Loan,Priority-based Budgeting,Self-employed 401(k),Medium,10.44,1.82
+Real Estate,Travel Insurance,Reverse Budgeting,401(k),High,2.26,11.38
+Commodities,Mortgage,Percentage-based Budgeting,Self-employed 401(k),Low,11.14,8.12
+Index Funds,Health Insurance,Debt Snowball Method,Roth IRA,Low,4.55,11.5
+Index Funds,Home Insurance,Zero-based Budgeting,Roth IRA,Medium,14.52,6.38
+Gold,Auto Loan,50/30/20 Rule,SEP IRA,High,5.31,6.93
+Real Estate,Life Insurance,Pay Yourself First,Annuities,Medium,5.99,5.89
+Cryptocurrency,Health Insurance,Pay Yourself First,Annuities,Low,13.86,9.49
+Gold,Credit Card,50/30/20 Rule,Pension Plan,High,11.15,11
+Bonds,Travel Insurance,Cash-only Budgeting,Roth IRA,Medium,12.41,4.3
+Commodities,Student Loan,Zero-based Budgeting,Self-employed 401(k),Medium,13.36,10.36
+Index Funds,Personal Loan,Line-item Budgeting,Traditional IRA,Medium,6.56,7.07
+Savings Account,Health Insurance,Pay Yourself First,SEP IRA,Low,1.49,8.96
+Savings Account,Life Insurance,Percentage-based Budgeting,SEP IRA,Medium,8.94,5.03
+ETFs,Business Loan,Percentage-based Budgeting,SEP IRA,Medium,2.57,10.85
+Mutual Funds,Life Insurance,Priority-based Budgeting,SEP IRA,Low,11.69,7.45
+Mutual Funds,Mortgage,50/30/20 Rule,401(k),Low,8.21,8.89
+Index Funds,Personal Loan,Reverse Budgeting,Pension Plan,High,12.02,11.68
+Savings Account,Credit Card,Debt Snowball Method,401(k),High,1.53,3.22
+Mutual Funds,Personal Loan,Pay Yourself First,Roth IRA,Medium,8.71,6.51
+Stocks,Health Insurance,Pay Yourself First,Pension Plan,Low,6.81,11.26
+Gold,Auto Loan,Cash-only Budgeting,Simple IRA,High,1.5,2.81
+Savings Account,Business Loan,Line-item Budgeting,SEP IRA,High,13.91,11.81
+Commodities,Life Insurance,Envelope System,Roth IRA,Low,6.37,2.92
+Gold,Life Insurance,Cash-only Budgeting,Target-date Funds,Low,13.8,6.78
+Savings Account,Life Insurance,Zero-based Budgeting,Target-date Funds,Medium,6.67,4.47
+Mutual Funds,Auto Loan,Reverse Budgeting,Self-employed 401(k),High,2.86,5.25
+Real Estate,Travel Insurance,Priority-based Budgeting,Target-date Funds,Low,4.15,1.95
+Index Funds,Health Insurance,Percentage-based Budgeting,HSA,Medium,7.9,6.61
+Real Estate,Home Insurance,Pay Yourself First,Pension Plan,Medium,3.37,8.07
+Gold,Mortgage,Zero-based Budgeting,401(k),Medium,14.99,3.29
+Gold,Health Insurance,Line-item Budgeting,Target-date Funds,High,6.23,9.1
+Stocks,Credit Card,Cash-only Budgeting,Self-employed 401(k),Medium,11.39,10.24
+ETFs,Mortgage,Percentage-based Budgeting,Annuities,Medium,14.39,5.41
+Index Funds,Credit Card,Debt Snowball Method,Self-employed 401(k),High,3.75,2.33
+ETFs,Auto Loan,50/30/20 Rule,Traditional IRA,Low,10.45,2.19
+Bonds,Auto Loan,Pay Yourself First,Annuities,Low,4.1,1.64
+Mutual Funds,Personal Loan,Pay Yourself First,Pension Plan,Low,6.79,3.39
+Mutual Funds,Student Loan,Pay Yourself First,SEP IRA,High,4.87,7.33
+Commodities,Health Insurance,Priority-based Budgeting,HSA,High,4.79,3.37
+Commodities,Travel Insurance,Zero-based Budgeting,Pension Plan,Low,4.09,11.22
+Bonds,Travel Insurance,Percentage-based Budgeting,Target-date Funds,High,4.74,2.98
+Mutual Funds,Personal Loan,Reverse Budgeting,Traditional IRA,Low,1.22,5.88
+Cryptocurrency,Business Loan,Cash-only Budgeting,Roth IRA,Low,10.41,8.9
+Commodities,Health Insurance,Pay Yourself First,HSA,High,4.9,6.59
+Gold,Personal Loan,Priority-based Budgeting,Traditional IRA,Medium,5.62,8.68
+Commodities,Travel Insurance,Pay Yourself First,SEP IRA,Low,4.59,3.45
+Stocks,Personal Loan,Priority-based Budgeting,401(k),Medium,1.2,4.41
+Savings Account,Auto Loan,Reverse Budgeting,401(k),Low,11.71,5.38
+Stocks,Mortgage,Debt Snowball Method,Pension Plan,High,9.76,6.72
+Gold,Life Insurance,Debt Snowball Method,Roth IRA,Medium,14.15,1.85
+Stocks,Home Insurance,50/30/20 Rule,SEP IRA,Low,4.51,7.49
+Bonds,Personal Loan,Line-item Budgeting,Traditional IRA,Medium,12.52,10.83
+Commodities,Health Insurance,Priority-based Budgeting,Roth IRA,Medium,5.51,4.61
+Gold,Business Loan,Envelope System,Target-date Funds,High,12.81,4.91
+Bonds,Auto Loan,50/30/20 Rule,Annuities,High,13.79,7.89
+Real Estate,Mortgage,Envelope System,Pension Plan,High,8.94,9.41
+Cryptocurrency,Personal Loan,Reverse Budgeting,Target-date Funds,Low,2.1,7.77
+Bonds,Student Loan,Cash-only Budgeting,Target-date Funds,Low,8.64,6.14
+Index Funds,Mortgage,Pay Yourself First,401(k),Low,2.66,11.01
+Mutual Funds,Travel Insurance,50/30/20 Rule,401(k),Low,10.66,5.68
+Index Funds,Home Insurance,Zero-based Budgeting,SEP IRA,Low,12.68,8.36
+Stocks,Home Insurance,Reverse Budgeting,Traditional IRA,Medium,9.07,3.98
+Commodities,Health Insurance,Percentage-based Budgeting,Simple IRA,Low,6.51,7.9
+Real Estate,Mortgage,Envelope System,Simple IRA,Medium,13.09,7.97
+Bonds,Business Loan,Priority-based Budgeting,Simple IRA,Medium,9.35,1.73
+Commodities,Personal Loan,Reverse Budgeting,Traditional IRA,High,11.6,10.52
+Gold,Mortgage,Zero-based Budgeting,Target-date Funds,Low,6.37,3.03
+Real Estate,Health Insurance,Line-item Budgeting,Traditional IRA,Low,8.38,8.31
+ETFs,Life Insurance,Envelope System,HSA,Medium,11.26,11.78
+Cryptocurrency,Student Loan,Cash-only Budgeting,Self-employed 401(k),High,2.42,6.27
+Stocks,Auto Loan,Cash-only Budgeting,401(k),Low,14.33,1.49
+ETFs,Credit Card,Line-item Budgeting,Self-employed 401(k),High,4.76,3.06
+Real Estate,Personal Loan,Priority-based Budgeting,Self-employed 401(k),Medium,5.7,7.67
+ETFs,Mortgage,Zero-based Budgeting,Roth IRA,Low,10.89,6.9
+Commodities,Home Insurance,Reverse Budgeting,Annuities,High,8.6,6.19
+Cryptocurrency,Life Insurance,50/30/20 Rule,Annuities,Low,4.15,2.66
+Commodities,Health Insurance,Priority-based Budgeting,Pension Plan,Medium,8.53,7.23
+Commodities,Health Insurance,Line-item Budgeting,SEP IRA,Low,13.36,2.38
+Bonds,Personal Loan,Zero-based Budgeting,Annuities,Medium,7.44,1.35
+Real Estate,Business Loan,Percentage-based Budgeting,Target-date Funds,Medium,11.28,3.75
+Stocks,Student Loan,Envelope System,Annuities,Low,12.8,3.18
+Real Estate,Auto Loan,Pay Yourself First,Traditional IRA,Medium,12.57,2.99
+Index Funds,Personal Loan,Pay Yourself First,Roth IRA,High,8.28,1.07
+Index Funds,Personal Loan,Pay Yourself First,Self-employed 401(k),Low,11.61,5.91
+Mutual Funds,Auto Loan,Envelope System,Traditional IRA,Low,10.61,10.12
+Mutual Funds,Credit Card,Reverse Budgeting,Annuities,Medium,11.99,8.3
+Commodities,Auto Loan,Line-item Budgeting,401(k),Low,12.26,6.64
+Mutual Funds,Home Insurance,Envelope System,Target-date Funds,Low,8.57,7.56
+Bonds,Student Loan,Reverse Budgeting,401(k),Low,11.93,10.68
+Mutual Funds,Credit Card,Pay Yourself First,401(k),Medium,6.3,8.94
+Stocks,Auto Loan,Line-item Budgeting,HSA,High,14.63,1.11
+Mutual Funds,Travel Insurance,Reverse Budgeting,HSA,Low,11.62,5.37
+Commodities,Travel Insurance,Reverse Budgeting,Simple IRA,High,8.58,8.92
+ETFs,Personal Loan,Priority-based Budgeting,Traditional IRA,High,9.02,9.26
+Real Estate,Home Insurance,Cash-only Budgeting,HSA,High,12.68,6.95
+Mutual Funds,Life Insurance,Envelope System,HSA,Medium,13.69,2.43
+Gold,Personal Loan,Reverse Budgeting,Annuities,Low,7.92,11.95
+Index Funds,Business Loan,Reverse Budgeting,Annuities,High,14.44,3.12
+Commodities,Travel Insurance,Line-item Budgeting,Self-employed 401(k),Low,8.19,7.36
